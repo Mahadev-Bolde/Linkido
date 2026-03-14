@@ -1,6 +1,0 @@
-{
-  "version": 3,
-  "sources": [],
-  "sections": [
-    {"offset": {"line": 4, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/Admin/OneDrive/Desktop/linkedin-clone/frontend/src/pages/blog/page.js"],"sourcesContent":["import React from \"react\";\r\n\r\nconst page = () => {\r\n  return <div>blog</div>;\r\n};\r\n\r\nexport default page;\r\n"],"names":[],"mappings":";;;;;AAAA;;;AAEA,MAAM,OAAO;IACX,qBAAO,qKAAC;kBAAI;;;;;;AACd;uCAEe"}}]
-}

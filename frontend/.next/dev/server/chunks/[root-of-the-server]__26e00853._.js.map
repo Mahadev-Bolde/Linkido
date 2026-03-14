@@ -1,6 +1,0 @@
-{
-  "version": 3,
-  "sources": [],
-  "sections": [
-    {"offset": {"line": 16, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/Admin/OneDrive/Desktop/linkedin-clone/frontend/src/pages/api/hello.js"],"sourcesContent":["// Next.js API route support: https://nextjs.org/docs/api-routes/introduction\n\nexport default function handler(req, res) {\n  res.status(200).json({ name: \"John Doe\" });\n}\n"],"names":[],"mappings":"AAAA,6EAA6E;;;;;AAE9D,SAAS,QAAQ,GAAG,EAAE,GAAG;IACtC,IAAI,MAAM,CAAC,KAAK,IAAI,CAAC;QAAE,MAAM;IAAW;AAC1C"}}]
-}
